@@ -17,8 +17,8 @@ The third folder: SVM describes the algorithm known as Support Vector Machines. 
 it instead creates a "hyperplane" in between the classes, to divide the data.
 
 **Dependencies**
-Numpy
-Pandas
-Sci Kit Learn
-Matplotlib
-Pickle
+Numpy;
+Pandas;
+Sci-Kit-Learn;
+Matplotlib;
+Pickle;
