@@ -15,3 +15,10 @@ to predict a student's final grade, based on the 5 parameters inputted by the us
 
 The third folder: SVM describes the algorithm known as Support Vector Machines. In essence, this model works similar to KNN, however,
 it instead creates a "hyperplane" in between the classes, to divide the data.
+
+**Dependencies**
+Numpy
+Pandas
+Sci Kit Learn
+Matplotlib
+Pickle
